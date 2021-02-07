@@ -41,10 +41,6 @@ int main() {
 
   std::cout << "findPoint found " << calls->size() << " calls\n";
 
-//  This returns the same as findPoint(BPatch_locSubroutine)
-//  std::vector<BPatch_point*> points;
-//  found_funcs[0]->getCallPoints(points);
-
   for(auto *c : *calls) {
     BPatch_function *callee = c->getCalledFunction();
     if(callee) {
