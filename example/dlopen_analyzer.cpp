@@ -13,6 +13,11 @@ int main() {
 
   std::cout << "Found the following procedures: \n";
   for(auto *p : procs) { std::cout << '\t' << p->getName() << '\n'; }
+  
+  procs.clear();
+  image->getProcedures(procs, true);
+  std::cout << "Found the following procedures (including uninstrumentable ones): \n";
+  for(auto *p : procs) { std::cout << '\t' << p->getName() << '\n'; }
 
   std::vector<BPatch_function *> found_funcs;
   image->findFunction("main", found_funcs);
