@@ -1,3 +1,5 @@
-example/dlopen_analyzer
+example/dlopen_analyzer_bpatch
+example/dlopen_analyzer_symtab
+example/dlopen_analyzer_parseapi
 example/dlopen_test
 example/mylib.so
