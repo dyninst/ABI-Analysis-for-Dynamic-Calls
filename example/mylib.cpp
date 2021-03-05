@@ -1,5 +1,3 @@
 #include <cstdio>
 
-extern "C" void hello() {
-	puts("Hello");
-}
+extern "C" void hello() { puts("Hello"); }

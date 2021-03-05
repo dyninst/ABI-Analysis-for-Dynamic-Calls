@@ -1,7 +1,6 @@
 #include "CodeObject.h"
 #include "CodeSource.h"
 
-
 int main() {
   using namespace Dyninst::ParseAPI;
   char const *binary_name = "dlopen_test";

@@ -5,15 +5,17 @@
 #include <string>
 
 int main(int argc, char *argv[]) {
-  auto usage = [argv](){ std::cerr << "Usage: " << argv[0] << " [--open-deps]\n"; };
+  auto usage = [argv]() {
+    std::cerr << "Usage: " << argv[0] << " [--open-deps]\n";
+  };
 
-  const bool open_dependencies = [argc, argv, &usage](){
-    if(argc > 2) {
+  const bool open_dependencies = [argc, argv, &usage]() {
+    if (argc > 2) {
       usage();
       exit(-1);
     }
-    if(argc == 2) {
-      if(argv[1] == std::string{"--open-deps"}) {
+    if (argc == 2) {
+      if (argv[1] == std::string{"--open-deps"}) {
         return true;
       } else {
         usage();
@@ -24,7 +26,8 @@ int main(int argc, char *argv[]) {
   }();
 
   BPatch bpatch;
-  BPatch_binaryEdit *appBin = bpatch.openBinary("dlopen_test", open_dependencies);
+  BPatch_binaryEdit *appBin =
+      bpatch.openBinary("dlopen_test", open_dependencies);
   auto *image = appBin->getImage();
 
   std::vector<BPatch_function *> procs;
@@ -55,9 +58,10 @@ int main(int argc, char *argv[]) {
   for (auto *c : *calls) {
     BPatch_function *callee = c->getCalledFunction();
     if (callee) {
-      //std::cout << "Parameters for callee " << callee->getName() << '\n';
-      //for(auto *p : *callee->getVars()) {
-        //std::cout << "\t" << p->getName() << " : " << p->getType()->getName() << '\n';
+      // std::cout << "Parameters for callee " << callee->getName() << '\n';
+      // for(auto *p : *callee->getVars()) {
+      // std::cout << "\t" << p->getName() << " : " << p->getType()->getName()
+      // << '\n';
       //}
     } else {
       std::cout << "Could not get callee at address " << std::hex
