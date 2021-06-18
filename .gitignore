@@ -4,3 +4,8 @@ example/dlopen_analyzer_parseapi
 example/dlopen_test
 example/mylib.so
 *.sh
+
+#Eclipse files
+.cproject
+.project
+.settings/
