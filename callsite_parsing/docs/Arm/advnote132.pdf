@@ -1,0 +1,3430 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 64 0 R /F5 74 0 R /F6 81 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 125 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/ARM-software/abi-aa)
+>> /Border [ 0 0 0 ] /Rect [ 118.7179 457.0236 332.4319 467.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/ARM-software/abi-aa/issues)
+>> /Border [ 0 0 0 ] /Rect [ 253.2859 440.2236 369.8359 451.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 6 0 R 7 0 R ] /Contents 126 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://creativecommons.org/licenses/by-sa/4.0/)
+>> /Border [ 0 0 0 ] /Rect [ 130.2109 719.4236 316.6376 730.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 82.69291 661.8236 0 ] /Rect [ 180.2419 550.6236 216.2683 561.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.apache.org/licenses/LICENSE-2.0)
+>> /Border [ 0 0 0 ] /Rect [ 220.2829 529.0236 405.8539 539.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 82.69291 661.8236 0 ] /Rect [ 321.3169 397.4236 352.3309 408.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.arm.com/company/policies/trademarks)
+>> /Border [ 0 0 0 ] /Rect [ 150.7219 310.2236 370.7471 321.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Annots [ 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 127 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+15 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 62.69291 716.4236 115.7209 727.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.5787 717.0986 532.5827 727.8986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 62.69291 716.2236 0 ] /Rect [ 82.69291 699.6236 135.7209 710.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 62.69291 716.2236 0 ] /Rect [ 527.5787 700.2986 532.5827 711.0986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 62.69291 546.6236 0 ] /Rect [ 82.69291 682.8236 142.2189 693.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 62.69291 546.6236 0 ] /Rect [ 527.5787 683.4986 532.5827 694.2986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 62.69291 491.8236 0 ] /Rect [ 82.69291 666.0236 234.2799 676.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 62.69291 491.8236 0 ] /Rect [ 527.5787 666.6986 532.5827 677.4986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 82.69291 649.2236 133.7229 660.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.5787 649.8986 532.5827 660.6986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 585.4236 0 ] /Rect [ 82.69291 632.4236 171.7479 643.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 585.4236 0 ] /Rect [ 527.5787 633.0986 532.5827 643.8986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 443.0236 0 ] /Rect [ 82.69291 615.6236 155.7279 626.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 443.0236 0 ] /Rect [ 527.5787 616.2986 532.5827 627.0986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 377.4236 0 ] /Rect [ 82.69291 598.8236 172.7289 609.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 377.4236 0 ] /Rect [ 527.5787 599.4986 532.5827 610.2986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 279.4236 0 ] /Rect [ 82.69291 582.0236 141.2199 592.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 62.69291 279.4236 0 ] /Rect [ 527.5787 582.6986 532.5827 593.4986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 62.69291 565.2236 168.7039 576.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.5787 565.8986 532.5827 576.6986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 62.69291 716.2236 0 ] /Rect [ 82.69291 548.4236 163.7379 559.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 62.69291 716.2236 0 ] /Rect [ 527.5787 549.0986 532.5827 559.8986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 62.69291 678.2236 0 ] /Rect [ 102.6929 531.6236 286.7969 542.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 62.69291 678.2236 0 ] /Rect [ 527.5787 532.2986 532.5827 543.0986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 62.69291 437.4236 0 ] /Rect [ 102.6929 514.8236 190.7399 525.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 62.69291 437.4236 0 ] /Rect [ 527.5787 515.4986 532.5827 526.2986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 82.69291 498.0236 148.7259 508.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.5787 498.6986 532.5827 509.4986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 550.2236 0 ] /Rect [ 82.69291 481.2236 201.7449 492.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 550.2236 0 ] /Rect [ 527.5787 481.8986 532.5827 492.6986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 62.69291 464.4236 216.2239 475.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.5787 465.0986 532.5827 475.8986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 716.2236 0 ] /Rect [ 82.69291 447.6236 349.3269 458.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 716.2236 0 ] /Rect [ 527.5787 448.2986 532.5827 459.0986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 445.8236 0 ] /Rect [ 82.69291 430.8236 277.2819 441.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 445.8236 0 ] /Rect [ 527.5787 431.4986 532.5827 442.2986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 336.6236 0 ] /Rect [ 102.6929 414.0236 315.2729 424.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 336.6236 0 ] /Rect [ 527.5787 414.6986 532.5827 425.4986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 198.0236 0 ] /Rect [ 102.6929 397.2236 201.2429 408.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 198.0236 0 ] /Rect [ 527.5787 397.8986 532.5827 408.6986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 581.4236 0 ] /Rect [ 82.69291 380.4236 167.7249 391.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 581.4236 0 ] /Rect [ 527.5787 381.0986 532.5827 391.8986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 543.4236 0 ] /Rect [ 102.6929 363.6236 314.7779 374.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 543.4236 0 ] /Rect [ 527.5787 364.2986 532.5827 375.0986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 349.6236 0 ] /Rect [ 102.6929 346.8236 241.2659 357.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 349.6236 0 ] /Rect [ 527.5787 347.4986 532.5827 358.2986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 93 0 R /XYZ 62.69291 356.0751 0 ] /Rect [ 102.6929 330.0236 349.7969 340.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 93 0 R /XYZ 62.69291 356.0751 0 ] /Rect [ 527.5787 330.6986 532.5827 341.4986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 
+  25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 
+  35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 
+  45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 
+  55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R ] /Contents 128 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+64 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+65 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 82.69291 661.8236 0 ] /Rect [ 301.0063 194.8236 332.0203 205.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 82.69291 628.2236 0 ] /Rect [ 349.0303 178.0236 410.9224 188.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 82.69291 611.4236 0 ] /Rect [ 407.0533 178.0236 491.8617 188.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 82.69291 594.6236 0 ] /Rect [ 281.9983 167.2236 320.5093 178.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/Annots [ 65 0 R 66 0 R 67 0 R 68 0 R ] /Contents 129 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/ARM-software/abi-aa/releases)
+>> /Border [ 0 0 0 ] /Rect [ 68.69291 692.2986 109.2109 703.0986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.arm.com/products/architecture/m-profile/docs/ddi0403/e/armv7-m-architecture-reference-manual)
+>> /Border [ 0 0 0 ] /Rect [ 68.69291 660.6986 127.1929 671.4986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.arm.com/docs/ddi0406/c/arm-architecture-reference-manual-armv7-a-and-armv7-r-edition)
+>> /Border [ 0 0 0 ] /Rect [ 68.69291 629.0986 132.1969 639.8986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.arm.com/docs/ddi0100/latest/armv5-architecture-reference-manual)
+>> /Border [ 0 0 0 ] /Rect [ 68.69291 597.4986 114.6919 608.2986 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/ARM-software/abi-aa/releases)
+>> /Border [ 0 0 0 ] /Rect [ 360.3119 398.8236 440.0256 409.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/ARM-software/abi-aa/releases)
+>> /Border [ 0 0 0 ] /Rect [ 428.3519 398.8236 508.8973 409.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/ARM-software/abi-aa/releases)
+>> /Border [ 0 0 0 ] /Rect [ 108.1949 388.0236 152.7179 398.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/Annots [ 70 0 R 71 0 R 72 0 R 73 0 R 75 0 R 76 0 R 77 0 R ] /Contents 130 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/ARM-software/abi-aa/releases)
+>> /Border [ 0 0 0 ] /Rect [ 281.7799 663.4236 323.3958 674.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/Annots [ 79 0 R ] /Contents 131 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+81 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+82 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 719.2236 0 ] /Rect [ 112.2199 511.6236 373.8343 522.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 218.6236 0 ] /Rect [ 385.3389 470.2236 491.9079 481.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 218.6236 0 ] /Rect [ 411.3399 442.6236 517.9089 453.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 93 0 R /XYZ 62.69291 358.5751 0 ] /Rect [ 62.69291 369.6236 282.2749 380.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 93 0 R /XYZ 62.69291 681.0236 0 ] /Rect [ 136.7139 123.6236 255.2709 134.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/Annots [ 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R ] /Contents 132 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+88 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 339.1236 0 ] /Rect [ 389.8249 754.2236 528.0371 765.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 339.1236 0 ] /Rect [ 62.69291 743.4236 175.2199 754.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 200.5236 0 ] /Rect [ 484.4059 726.6236 532.3517 737.4236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 200.5236 0 ] /Rect [ 62.69291 715.8236 87.19991 726.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 87 0 R /XYZ 62.69291 545.9236 0 ] /Rect [ 298.2769 275.0751 482.8399 285.8751 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/Annots [ 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R ] /Contents 133 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+94 0 obj
+<<
+/Outlines 96 0 R /PageLabels 134 0 R /PageMode /UseNone /Pages 124 0 R /Type /Catalog
+>>
+endobj
+95 0 obj
+<<
+/Author () /CreationDate (D:20210420151711+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210420151711+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (ABI for the Arm\256 Architecture Advisory Note \205 SP must be 8-byte aligned on entry to AAPCS-conforming functions) /Trapped /False
+>>
+endobj
+96 0 obj
+<<
+/Count 34 /First 97 0 R /Last 112 0 R /Type /Outlines
+>>
+endobj
+97 0 obj
+<<
+/Count 8 /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /First 98 0 R /Last 105 0 R /Next 106 0 R /Parent 96 0 R 
+  /Title (\376\377\0001\000\240\000\240\000\240\000P\000r\000e\000a\000m\000b\000l\000e)
+>>
+endobj
+98 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 716.2236 0 ] /Next 99 0 R /Parent 97 0 R /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000A\000b\000s\000t\000r\000a\000c\000t)
+>>
+endobj
+99 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 546.6236 0 ] /Next 100 0 R /Parent 97 0 R /Prev 98 0 R /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000K\000e\000y\000w\000o\000r\000d\000s)
+>>
+endobj
+100 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 491.8236 0 ] /Next 101 0 R /Parent 97 0 R /Prev 99 0 R /Title (\376\377\0001\000.\0003\000\240\000\240\000\240\000L\000a\000t\000e\000s\000t\000 \000r\000e\000l\000e\000a\000s\000e\000 \000a\000n\000d\000 \000d\000e\000f\000e\000c\000t\000s\000 \000r\000e\000p\000o\000r\000t)
+>>
+endobj
+101 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 765.0236 0 ] /Next 102 0 R /Parent 97 0 R /Prev 100 0 R /Title (\376\377\0001\000.\0004\000\240\000\240\000\240\000L\000i\000c\000e\000n\000c\000e)
+>>
+endobj
+102 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 585.4236 0 ] /Next 103 0 R /Parent 97 0 R /Prev 101 0 R /Title (\376\377\0001\000.\0005\000\240\000\240\000\240\000A\000b\000o\000u\000t\000 \000t\000h\000e\000 \000l\000i\000c\000e\000n\000s\000e)
+>>
+endobj
+103 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 443.0236 0 ] /Next 104 0 R /Parent 97 0 R /Prev 102 0 R /Title (\376\377\0001\000.\0006\000\240\000\240\000\240\000C\000o\000n\000t\000r\000i\000b\000u\000t\000i\000o\000n\000s)
+>>
+endobj
+104 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 377.4236 0 ] /Next 105 0 R /Parent 97 0 R /Prev 103 0 R /Title (\376\377\0001\000.\0007\000\240\000\240\000\240\000T\000r\000a\000d\000e\000m\000a\000r\000k\000 \000n\000o\000t\000i\000c\000e)
+>>
+endobj
+105 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 279.4236 0 ] /Parent 97 0 R /Prev 104 0 R /Title (\376\377\0001\000.\0008\000\240\000\240\000\240\000C\000o\000p\000y\000r\000i\000g\000h\000t)
+>>
+endobj
+106 0 obj
+<<
+/Count 5 /Dest [ 69 0 R /XYZ 62.69291 765.0236 0 ] /First 107 0 R /Last 111 0 R /Next 112 0 R /Parent 96 0 R 
+  /Prev 97 0 R /Title (\376\377\0002\000\240\000\240\000\240\000A\000b\000o\000u\000t\000 \000T\000h\000i\000s\000 \000D\000o\000c\000u\000m\000e\000n\000t)
+>>
+endobj
+107 0 obj
+<<
+/Count 2 /Dest [ 69 0 R /XYZ 62.69291 716.2236 0 ] /First 108 0 R /Last 109 0 R /Next 110 0 R /Parent 106 0 R 
+  /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000C\000h\000a\000n\000g\000e\000 \000c\000o\000n\000t\000r\000o\000l)
+>>
+endobj
+108 0 obj
+<<
+/Dest [ 69 0 R /XYZ 62.69291 678.2236 0 ] /Next 109 0 R /Parent 107 0 R /Title (\376\377\0002\000.\0001\000.\0001\000\240\000\240\000\240\000C\000u\000r\000r\000e\000n\000t\000 \000s\000t\000a\000t\000u\000s\000 \000a\000n\000d\000 \000a\000n\000t\000i\000c\000i\000p\000a\000t\000e\000d\000 \000c\000h\000a\000n\000g\000e\000s)
+>>
+endobj
+109 0 obj
+<<
+/Dest [ 69 0 R /XYZ 62.69291 437.4236 0 ] /Parent 107 0 R /Prev 108 0 R /Title (\376\377\0002\000.\0001\000.\0002\000\240\000\240\000\240\000C\000h\000a\000n\000g\000e\000 \000h\000i\000s\000t\000o\000r\000y)
+>>
+endobj
+110 0 obj
+<<
+/Dest [ 78 0 R /XYZ 62.69291 765.0236 0 ] /Next 111 0 R /Parent 106 0 R /Prev 107 0 R /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s)
+>>
+endobj
+111 0 obj
+<<
+/Dest [ 78 0 R /XYZ 62.69291 550.2236 0 ] /Parent 106 0 R /Prev 110 0 R /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000T\000e\000r\000m\000s\000 \000a\000n\000d\000 \000a\000b\000b\000r\000e\000v\000i\000a\000t\000i\000o\000n\000s)
+>>
+endobj
+112 0 obj
+<<
+/Count 11 /Dest [ 80 0 R /XYZ 62.69291 765.0236 0 ] /First 113 0 R /Last 117 0 R /Parent 96 0 R /Prev 106 0 R 
+  /Title (\376\377\0003\000\240\000\240\000\240\000T\000h\000e\000 \000P\000r\000o\000b\000l\000e\000m\000 \000a\000n\000d\000 \000H\000o\000w\000 \000t\000o\000 \000A\000v\000o\000i\000d\000 \000i\000t)
+>>
+endobj
+113 0 obj
+<<
+/Dest [ 80 0 R /XYZ 62.69291 716.2236 0 ] /Next 114 0 R /Parent 112 0 R /Title (\376\377\0003\000.\0001\000\240\000\240\000\240\000T\000h\000e\000 \000n\000e\000e\000d\000 \000t\000o\000 \000a\000l\000i\000g\000n\000 \000S\000P\000 \000t\000o\000 \000a\000 \000m\000u\000l\000t\000i\000p\000l\000e\000 \000o\000f\000 \0008\000 \000a\000t\000 \000c\000o\000n\000f\000o\000r\000m\000i\000n\000g\000 \000c\000a\000l\000l\000 \000s\000i\000t\000e\000s)
+>>
+endobj
+114 0 obj
+<<
+/Count 2 /Dest [ 80 0 R /XYZ 62.69291 445.8236 0 ] /First 115 0 R /Last 116 0 R /Next 117 0 R /Parent 112 0 R 
+  /Prev 113 0 R /Title (\376\377\0003\000.\0002\000\240\000\240\000\240\000P\000o\000s\000s\000i\000b\000l\000e\000 \000c\000o\000n\000s\000e\000q\000u\000e\000n\000c\000e\000s\000 \000o\000f\000 \000S\000P\000 \000m\000i\000s\000a\000l\000i\000g\000n\000m\000e\000n\000t)
+>>
+endobj
+115 0 obj
+<<
+/Dest [ 80 0 R /XYZ 62.69291 336.6236 0 ] /Next 116 0 R /Parent 114 0 R /Title (\376\377\0003\000.\0002\000.\0001\000\240\000\240\000\240\000A\000l\000i\000g\000n\000m\000e\000n\000t\000 \000f\000a\000u\000l\000t\000 \000o\000r\000 \000U\000N\000P\000R\000E\000D\000I\000C\000T\000A\000B\000L\000E\000 \000b\000e\000h\000a\000v\000i\000o\000r)
+>>
+endobj
+116 0 obj
+<<
+/Dest [ 80 0 R /XYZ 62.69291 198.0236 0 ] /Parent 114 0 R /Prev 115 0 R /Title (\376\377\0003\000.\0002\000.\0002\000\240\000\240\000\240\000A\000p\000p\000l\000i\000c\000a\000t\000i\000o\000n\000 \000f\000a\000i\000l\000u\000r\000e)
+>>
+endobj
+117 0 obj
+<<
+/Count 6 /Dest [ 87 0 R /XYZ 62.69291 581.4236 0 ] /First 118 0 R /Last 123 0 R /Parent 112 0 R /Prev 114 0 R 
+  /Title (\376\377\0003\000.\0003\000\240\000\240\000\240\000C\000o\000r\000r\000e\000c\000t\000i\000v\000e\000 \000s\000t\000e\000p\000s)
+>>
+endobj
+118 0 obj
+<<
+/Dest [ 87 0 R /XYZ 62.69291 543.4236 0 ] /Next 119 0 R /Parent 117 0 R /Title (\376\377\0003\000.\0003\000.\0001\000\240\000\240\000\240\000O\000p\000e\000r\000a\000t\000i\000n\000g\000 \000s\000y\000s\000t\000e\000m\000s\000 \000a\000n\000d\000 \000r\000u\000n\000-\000t\000i\000m\000e\000 \000e\000n\000v\000i\000r\000o\000n\000m\000e\000n\000t\000s)
+>>
+endobj
+119 0 obj
+<<
+/Count 3 /Dest [ 87 0 R /XYZ 62.69291 349.6236 0 ] /First 120 0 R /Last 122 0 R /Next 123 0 R /Parent 117 0 R 
+  /Prev 118 0 R /Title (\376\377\0003\000.\0003\000.\0002\000\240\000\240\000\240\000S\000o\000f\000t\000w\000a\000r\000e\000 \000d\000e\000v\000e\000l\000o\000p\000m\000e\000n\000t\000 \000t\000o\000o\000l\000s)
+>>
+endobj
+120 0 obj
+<<
+/Dest [ 87 0 R /XYZ 62.69291 314.6236 0 ] /Next 121 0 R /Parent 119 0 R /Title (\376\377\0003\000.\0003\000.\0002\000.\0001\000\240\000\240\000\240\000O\000p\000t\000i\000o\000n\000 \000t\000o\000 \000a\000l\000i\000g\000n\000 \000S\000P\000 \000o\000n\000 \000e\000n\000t\000r\000y\000 \000t\000o\000 \000d\000e\000s\000i\000g\000n\000a\000t\000e\000d\000 \000f\000u\000n\000c\000t\000i\000o\000n\000s)
+>>
+endobj
+121 0 obj
+<<
+/Dest [ 87 0 R /XYZ 62.69291 216.6236 0 ] /Next 122 0 R /Parent 119 0 R /Prev 120 0 R /Title (\376\377\0003\000.\0003\000.\0002\000.\0002\000\240\000\240\000\240\000S\000a\000f\000e\000 \000o\000p\000t\000i\000o\000n\000 \000n\000o\000t\000 \000t\000o\000 \000a\000l\000i\000g\000n\000 \000S\000P)
+>>
+endobj
+122 0 obj
+<<
+/Dest [ 93 0 R /XYZ 62.69291 679.0236 0 ] /Parent 119 0 R /Prev 121 0 R /Title (\376\377\0003\000.\0003\000.\0002\000.\0003\000\240\000\240\000\240\000R\000e\000p\000a\000i\000r\000 \000o\000f\000 \000v\000a\000_\000s\000t\000a\000r\000t\000 \000a\000n\000d\000 \000v\000a\000_\000a\000r\000g)
+>>
+endobj
+123 0 obj
+<<
+/Dest [ 93 0 R /XYZ 62.69291 356.0751 0 ] /Parent 117 0 R /Prev 119 0 R /Title (\376\377\0003\000.\0003\000.\0003\000\240\000\240\000\240\000S\000p\000e\000c\000i\000a\000l\000 \000c\000o\000n\000s\000i\000d\000e\000r\000a\000t\000i\000o\000n\000s\000 \000f\000o\000r\000 \000C\000o\000r\000t\000e\000x\000-\000M\000 \000b\000a\000s\000e\000d\000 \000a\000p\000p\000l\000i\000c\000a\000t\000i\000o\000n\000s)
+>>
+endobj
+124 0 obj
+<<
+/Count 9 /Kids [ 5 0 R 8 0 R 14 0 R 63 0 R 69 0 R 78 0 R 80 0 R 87 0 R 93 0 R ] /Type /Pages
+>>
+endobj
+125 0 obj
+<<
+/Length 2305
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 .568627 .741176 rg
+BT 1 0 0 1 0 52 Tm /F2 20 Tf 24 TL 26.18976 0 Td (ABI for the Arm\256 Architecture Advisory Note \226) Tj T* 85.84 0 Td (SP must be 8-byte aligned on entry to) Tj T* 75.63996 0 Td (AAPCS-conforming functions) Tj T* -187.6698 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 655.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 416.5198 0 Td 18 TL /F2 15 Tf 0 .568627 .741176 rg (2021Q1) Tj T* -416.5198 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.2236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 352.825 0 Td 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (Date of Issue: 12) Tj /F1 7.2 Tf 4.5 Ts (th) Tj /F1 9 Tf 0 Ts ( April 2021) Tj T* -352.825 0 Td ET
+Q
+Q
+q
+.3 0 0 .3 460.7327 501.6936 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 80 cm
+q
+1 0 0 1 -275 -265 cm
+q
+1 0 0 1 0 0 cm
+q
+0 .568627 .741176 rg
+1 w
+0 J
+0 j
+[] 0 d
+n 331.4 271.8 m 347.3 271.8 l 347.3 339.9 l 331.4 339.9 l 331.4 332.8 l 324.4 340.9 315.9 342 311 342 c 290 342 278 324.5 278 305.8 c 278 283.6 293.2 270 311.2 270 c 316.2 270 325 271.3 331.4 279.7 c 331.4 271.8 l h 294.2 306.1 m 294.2 317.9 301.6 327.8 313.1 327.8 c 323.1 327.8 332.4 320.5 332.4 306.3 c 332.4 291.4 323.2 284.3 313.1 284.3 c 301.6 284.3 294.2 294 294.2 306.1 c h 366.1 271.8 m 382 271.8 l 382 277.9 l 383.8 275.8 386.4 273.5 388.6 272.2 c 391.7 270.4 394.7 269.9 398.3 269.9 c 402.2 269.9 406.4 270.5 410.8 273.1 c 404.3 287.5 l 400.7 285.2 397.8 285.1 396.2 285.1 c 392.8 285.1 389.4 285.6 386.3 288.8 c 381.9 293.5 381.9 300 381.9 304.5 c 381.9 339.8 l 366 339.8 l 366 271.8 l h 421 271.8 m 436.9 271.8 l 436.9 278.1 l 442.2 271.6 448.5 270 453.7 270 c 460.8 270 467.5 273.4 471.3 280 c 477 271.9 485.5 270 491.5 270 c 499.8 270 507 273.9 510.9 280.7 c 512.2 283 514.5 288 514.5 297.9 c 514.5 340 l 498.6 340 l 498.6 302.5 l 498.6 294.9 497.8 291.8 497.1 290.4 c 496.1 287.8 493.7 284.4 488 284.4 c 484.1 284.4 480.7 286.5 478.6 289.4 c 475.8 293.3 475.5 299.1 475.5 304.9 c 475.5 340 l 459.6 340 l 459.6 302.5 l 459.6 294.9 458.8 291.8 458.1 290.4 c 457.1 287.8 454.7 284.4 449 284.4 c 445.1 284.4 441.7 286.5 439.6 289.4 c 436.8 293.3 436.5 299.1 436.5 304.9 c 436.5 340 l 421 340 l 421 271.8 l h
+f*
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 501.6936 cm
+Q
+ 
+endstream
+endobj
+126 0 obj
+<<
+/Length 3974
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 736.2236 cm
+q
+BT 1 0 0 1 0 4.8 Tm 28.8 TL /F2 24 Tf 0 .568627 .741176 rg (1   Preamble) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 698.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (1.1   Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 670.6236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL 1.167735 Tw (This advisory note discusses a hitherto little noticed consequence of the ABI requirement for natural alignment for) Tj T* 0 Tw (primitive data of size 1, 2, 4, and 8 bytes, and its implications for:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 664.6236 cm
+Q
+q
+1 0 0 1 62.69291 664.6236 cm
+Q
+q
+1 0 0 1 62.69291 610.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 40.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Low level exception-handling code running on:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 34.6 cm
+Q
+q
+1 0 0 1 23 34.6 cm
+Q
+q
+1 0 0 1 23 23.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (A and R profiles of version 7 of the Arm architecture.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 17.8 cm
+Q
+q
+1 0 0 1 23 7 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Versions of the Arm architecture earlier than version 7.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 604.2236 cm
+Q
+q
+1 0 0 1 62.69291 593.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Code that might be entered directly through an Armv7M exception vector.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 587.4236 cm
+Q
+q
+1 0 0 1 62.69291 576.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Tool chains that generate such code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 566.6236 cm
+Q
+q
+1 0 0 1 62.69291 528.6236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (1.2   Keywords) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 511.8236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (ABI for the Arm architecture, advisory note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 473.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (1.3   Latest release and defects report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 457.0236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (Please check ) Tj .011765 .4 .839216 rg (Application Binary Interface for the Arm\256 Architecture) Tj .219608 .215686 .270588 rg ( for the latest release of this document.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 440.2236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (Please report defects in this specification to the ) Tj .011765 .4 .839216 rg (issue tracker page on GitHub) Tj .219608 .215686 .270588 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 440.2236 cm
+Q
+q
+1 0 0 1 56.69291 73.49291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 238.4429 0 Td (2) Tj T* -238.4429 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 57.29088 0 Td (Copyright \251 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* -57.29088 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+127 0 obj
+<<
+/Length 5793
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (1.4   Licence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.6236 cm
+q
+BT 1 0 0 1 0 23.4 Tm .10686 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of) Tj T* 0 Tw .285213 Tw (this license, visit ) Tj .011765 .4 .839216 rg (http://creativecommons.org/licenses/by-sa/4.0/) Tj .219608 .215686 .270588 rg ( or send a letter to Creative Commons, PO Box 1866,) Tj T* 0 Tw (Mountain View, CA 94042, USA.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 605.4236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 88.2 Tm /F1 9 Tf 10.8 TL .612935 Tw (Grant of Patent License. Subject to the terms and conditions of this license \(both the Public License and this Patent) Tj T* 0 Tw 3.18373 Tw (License\), each Licensor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,) Tj T* 0 Tw .825619 Tw (irrevocable \(except as stated in this section\) patent license to make, have made, use, offer to sell, sell, import, and) Tj T* 0 Tw .793673 Tw (otherwise transfer the Licensed Material, where such license applies only to those patent claims licensable by such) Tj T* 0 Tw .35661 Tw (Licensor that are necessarily infringed by their contribution\(s\) alone or by combination of their contribution\(s\) with the) Tj T* 0 Tw 1.679384 Tw (Licensed Material to which such contribution\(s\) was submitted. If You institute patent litigation against any entity) Tj T* 0 Tw .20136 Tw (\(including a cross-claim or counterclaim in a lawsuit\) alleging that the Licensed Material or a contribution incorporated) Tj T* 0 Tw .878384 Tw (within the Licensed Material constitutes direct or contributory patent infringement, then any licenses granted to You) Tj T* 0 Tw (under this license for that Licensed Material shall terminate as of the date such litigation is filed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 567.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (1.5   About the license) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 529.0236 cm
+q
+BT 1 0 0 1 0 23.4 Tm .835398 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (As identified more fully in the ) Tj .011765 .4 .839216 rg (Licence) Tj .219608 .215686 .270588 rg ( section, this project is licensed under CC-BY-SA-4.0 along with an additional) Tj T* 0 Tw 1.260548 Tw (patent license. The language in the additional patent license is largely identical to that in Apache-2.0 \(specifically,) Tj T* 0 Tw (Section 3 of Apache-2.0 as reflected at ) Tj .011765 .4 .839216 rg (https://www.apache.org/licenses/LICENSE-2.0) Tj .219608 .215686 .270588 rg (\) with two exceptions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.4236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL .055274 Tw (First, several changes were made related to the defined terms so as to reflect the fact that such defined terms need to) Tj T* 0 Tw (align with the terminology in CC-BY-SA-4.0 rather than Apache-2.0 \(e.g., changing \223Work\224 to \223Licensed Material\224\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 463.0236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 23.4 Tm /F1 9 Tf 10.8 TL .634485 Tw (Second, the defensive termination clause was changed such that the scope of defensive termination applies to \223any) Tj T* 0 Tw .00804 Tw (licenses granted to You\224 \(rather than \223any patent licenses granted to You\224\). This change is intended to help maintain a) Tj T* 0 Tw (healthy ecosystem by providing additional protection to the community against patent litigation claims.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (1.6   Contributions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 397.4236 cm
+q
+BT 1 0 0 1 0 12.6 Tm 1.393784 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (Contributions to this project are licensed under an inbound=outbound model such that any such contributions are) Tj T* 0 Tw (licensed by the contributor under the same terms as those in the ) Tj .011765 .4 .839216 rg (Licence) Tj .219608 .215686 .270588 rg ( section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 359.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (1.7   Trademark notice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.4236 cm
+q
+BT 1 0 0 1 0 45 Tm .335633 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (The text of and illustrations in this document are licensed by Arm under a Creative Commons Attribution\226Share Alike) Tj T* 0 Tw .786197 Tw (4.0 International license \("CC-BY-SA-4.0\224\), with an additional clause on patents. The Arm trademarks featured here) Tj T* 0 Tw 1.162045 Tw (are registered trademarks or trademarks of Arm Limited \(or its subsidiaries\) in the US and/or elsewhere. All rights) Tj T* 0 Tw 5.65872 Tw (reserved. Please visit ) Tj .011765 .4 .839216 rg (https://www.arm.com/company/policies/trademarks) Tj .219608 .215686 .270588 rg ( for more information about Arm\222s) Tj T* 0 Tw (trademarks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 261.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (1.8   Copyright) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 244.6236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Copyright \(c\) 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 244.6236 cm
+Q
+q
+1 0 0 1 56.69291 73.49291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 238.4429 0 Td (3) Tj T* -238.4429 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 57.29088 0 Td (Copyright \251 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* -57.29088 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+128 0 obj
+<<
+/Length 6851
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 736.2236 cm
+q
+BT 1 0 0 1 0 4.8 Tm 28.8 TL /F2 24 Tf 0 .568627 .741176 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 389.4 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F2 9 Tf .011765 .4 .839216 rg (1   Preamble) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 389.4 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL 66.996 0 Td (2) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 372.6 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (1.1   Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 372.6 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (2) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 355.8 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (1.2   Keywords) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 355.8 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (2) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 339 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (1.3   Latest release and defects report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 339 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (2) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 322.2 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (1.4   Licence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 322.2 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (3) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 305.4 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (1.5   About the license) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 305.4 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (3) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 288.6 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (1.6   Contributions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 288.6 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (3) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 271.8 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (1.7   Trademark notice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 271.8 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (3) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 255 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (1.8   Copyright) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 255 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (3) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 238.2 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F2 9 Tf .011765 .4 .839216 rg (2   About This Document) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 238.2 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL 66.996 0 Td (5) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 221.4 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (2.1   Change control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 221.4 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (5) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 204.6 cm
+q
+BT 1 0 0 1 40 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (2.1.1   Current status and anticipated changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 204.6 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (5) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 187.8 cm
+q
+BT 1 0 0 1 40 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (2.1.2   Change history) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 187.8 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (5) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 171 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (2.2   References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 171 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (6) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 154.2 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (2.3   Terms and abbreviations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 154.2 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (6) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 137.4 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F2 9 Tf .011765 .4 .839216 rg (3   The Problem and How to Avoid it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 137.4 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL 66.996 0 Td (7) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 120.6 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (3.1   The need to align SP to a multiple of 8 at conforming call sites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 120.6 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (7) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 103.8 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (3.2   Possible consequences of SP misalignment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 103.8 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (7) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 87 cm
+q
+BT 1 0 0 1 40 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (3.2.1   Alignment fault or UNPREDICTABLE behavior) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 87 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (7) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 70.2 cm
+q
+BT 1 0 0 1 40 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (3.2.2   Application failure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 70.2 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (7) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 53.4 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (3.3   Corrective steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 53.4 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (8) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 36.6 cm
+q
+BT 1 0 0 1 40 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (3.3.1   Operating systems and run-time environments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 36.6 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (8) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 19.8 cm
+q
+BT 1 0 0 1 40 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (3.3.2   Software development tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 19.8 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (8) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 40 1.8 Tm 10.8 TL /F1 9 Tf .011765 .4 .839216 rg (3.3.3   Special considerations for Cortex-M based applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 66.996 0 Td (9) Tj T* -66.996 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+q
+1 0 0 1 56.69291 73.49291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 238.4429 0 Td (4) Tj T* -238.4429 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 57.29088 0 Td (Copyright \251 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* -57.29088 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+129 0 obj
+<<
+/Length 9034
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 736.2236 cm
+q
+BT 1 0 0 1 0 4.8 Tm 28.8 TL /F2 24 Tf 0 .568627 .741176 rg (2   About This Document) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 698.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (2.1   Change control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.2236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 .568627 .741176 rg (2.1.1   Current status and anticipated changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 646.4236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (The following support level definitions are used by the Arm ABI specifications:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 631.6236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Release) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 54.8 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 55.8 Tm /F1 9 Tf 10.8 TL .085983 Tw (Arm considers this specification to have enough implementations, which have received sufficient testing, to verify) Tj T* 0 Tw 1.298724 Tw (that it is correct. The details of these criteria are dependent on the scale and complexity of the change over) Tj T* 0 Tw 1.402443 Tw (previous versions: small, simple changes might only require one implementation, but more complex changes) Tj T* 0 Tw 1.475797 Tw (require multiple independent implementations, which have been rigorously tested for cross-compatibility. Arm) Tj T* 0 Tw .586126 Tw (anticipates that future changes to this specification will be limited to typographical corrections, clarifications and) Tj T* 0 Tw (compatible extensions.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Beta) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 22.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 23.4 Tm /F1 9 Tf 10.8 TL .713851 Tw (Arm considers this specification to be complete, but existing implementations do not meet the requirements for) Tj T* 0 Tw 2.326923 Tw (confidence in its release quality. Arm may need to make incompatible changes if issues emerge from its) Tj T* 0 Tw (implementation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 498.8236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Alpha) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 11.6 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL .231876 Tw (The content of this specification is a draft, and Arm considers the likelihood of future incompatible changes to be) Tj T* 0 Tw (significant.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 457.4236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (All content in this document is at the ) Tj /F2 9 Tf (Release) Tj /F1 9 Tf ( quality level.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.4236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 .568627 .741176 rg (2.1.2   Change history) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 394.8236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL .46212 Tw (If there is no entry in the change history table for a release, there are no changes to the content of the document for) Tj T* 0 Tw (that release.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 388.8236 cm
+Q
+q
+1 0 0 1 74.44016 155.2236 cm
+q
+1 1 1 rg
+n 0 233.6 446.3953 -16.8 re f*
+0 .568627 .741176 rg
+BT /F2 9 Tf 10.8 TL ET
+q
+1 0 0 1 6 219.8 cm
+q
+1 1 1 rg
+n 0 0 49.08567 10.8 re f*
+Q
+q
+0 .568627 .741176 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Issue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.08567 219.8 cm
+q
+1 1 1 rg
+n 0 0 105.4724 10.8 re f*
+Q
+q
+0 .568627 .741176 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.5581 219.8 cm
+q
+1 1 1 rg
+n 0 0 255.8372 10.8 re f*
+Q
+q
+0 .568627 .741176 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Change) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 201 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (0.01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.08567 201 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (28) Tj /F1 7.2 Tf 4.5 Ts (th) Tj /F1 9 Tf 0 Ts ( February 2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.5581 201 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (DRAFT for internal comment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 180.2 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (0.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.08567 180.2 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (3) Tj /F1 7.2 Tf 4.5 Ts (rd) Tj /F1 9 Tf 0 Ts ( March 2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.5581 180.2 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (CONFIDENTIAL version for limited release.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 159.4 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.08567 159.4 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (20) Tj /F1 7.2 Tf 4.5 Ts (th) Tj /F1 9 Tf 0 Ts ( March 2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.5581 159.4 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Open access version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 138.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.08567 138.6 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (25) Tj /F1 7.2 Tf 4.5 Ts (th) Tj /F1 9 Tf 0 Ts ( October 2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.5581 138.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Document renumbered \(formerly GENC-007024 v1.0\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 117.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (B) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.08567 117.8 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (23) Tj /F1 7.2 Tf 4.5 Ts (rd) Tj /F1 9 Tf 0 Ts ( October 2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.5581 107 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL (Updated the reference to the Arm ARM; reviewed use of) Tj T* (terminology.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 86.2 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (2018Q4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.08567 86.2 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (21) Tj /F1 7.2 Tf 4.5 Ts (st) Tj /F1 9 Tf 0 Ts ( December 2018) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.5581 86.2 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Minor typographical fixes, updated links.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 65.4 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (2021Q1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.08567 65.4 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (12) Tj /F1 7.2 Tf 4.5 Ts (th) Tj /F1 9 Tf 0 Ts ( April 2021) Tj T* ET
+Q
+Q
+q
+1 0 0 1 184.5581 70.2 cm
+Q
+q
+1 0 0 1 184.5581 70.2 cm
+Q
+q
+1 0 0 1 184.5581 59.4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (document released on Github) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 184.5581 53.4 cm
+Q
+q
+1 0 0 1 184.5581 42.6 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (new ) Tj .011765 .4 .839216 rg (Licence) Tj .219608 .215686 .270588 rg (: CC-BY-SA-4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 184.5581 36.6 cm
+Q
+q
+1 0 0 1 184.5581 15 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 12.6 Tm 2.957694 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (new sections on ) Tj .011765 .4 .839216 rg (Contributions) Tj .219608 .215686 .270588 rg (, ) Tj .011765 .4 .839216 rg (Trademark notice) Tj .219608 .215686 .270588 rg (, and) Tj T* 0 Tw .011765 .4 .839216 rg (Copyright) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 184.5581 5 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 216.8 m 446.3953 216.8 l S
+.25 w
+n 0 216.8 m 446.3953 216.8 l S
+n 0 196 m 446.3953 196 l S
+n 0 175.2 m 446.3953 175.2 l S
+n 0 154.4 m 446.3953 154.4 l S
+n 0 133.6 m 446.3953 133.6 l S
+n 0 102 m 446.3953 102 l S
+n 0 81.2 m 446.3953 81.2 l S
+n 61.08567 0 m 61.08567 233.6 l S
+n 178.5581 0 m 178.5581 233.6 l S
+n 0 233.6 m 446.3953 233.6 l S
+n 0 0 m 446.3953 0 l S
+n 0 0 m 0 233.6 l S
+n 446.3953 0 m 446.3953 233.6 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 155.2236 cm
+Q
+q
+1 0 0 1 56.69291 73.49291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 238.4429 0 Td (5) Tj T* -238.4429 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 57.29088 0 Td (Copyright \251 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* -57.29088 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+130 0 obj
+<<
+/Length 6312
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (2.2   References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 730.2236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (This document refers to the following documents.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 724.2236 cm
+Q
+q
+1 0 0 1 62.69291 570.2236 cm
+q
+1 1 1 rg
+n 0 154 469.8898 -16.8 re f*
+0 .568627 .741176 rg
+BT /F2 9 Tf 10.8 TL ET
+q
+1 0 0 1 6 140.2 cm
+q
+1 1 1 rg
+n 0 0 76.79807 10.8 re f*
+Q
+q
+0 .568627 .741176 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Ref) Tj T* ET
+Q
+Q
+q
+1 0 0 1 94.79807 140.2 cm
+q
+1 1 1 rg
+n 0 0 184.0957 10.8 re f*
+Q
+q
+0 .568627 .741176 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Document number / External URL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 290.8938 140.2 cm
+q
+1 1 1 rg
+n 0 0 172.996 10.8 re f*
+Q
+q
+0 .568627 .741176 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Title) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 121.4 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (AAPCS32) Tj T* ET
+Q
+Q
+q
+1 0 0 1 290.8938 110.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL (Procedure Call Standard for the Arm) Tj T* (Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 89.8 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Armv7ARM_M) Tj T* ET
+Q
+Q
+q
+1 0 0 1 94.79807 89.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Arm DDI 0403E) Tj T* ET
+Q
+Q
+q
+1 0 0 1 290.8938 79 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL -0.011206 Tw (Arm DDI 0406: Arm Architecture Reference) Tj T* 0 Tw (Manual Arm v7-A and Arm v7-R edition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 58.2 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Armv7ARM_AR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 94.79807 58.2 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Arm DDI 0406C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 290.8938 47.4 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL (Arm DDI 0403C: Armv7-M Architecture) Tj T* (Reference Manual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 26.6 cm
+q
+.011765 .4 .839216 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Armv5ARM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 94.79807 26.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Arm DDI 0100E, ISBN 0 201 737191) Tj T* ET
+Q
+Q
+q
+1 0 0 1 290.8938 5 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 23.4 Tm /F1 9 Tf 10.8 TL (The Arm Architecture Reference Manual,) Tj T* (2nd edition, edited by David Seal,) Tj T* (published by Addison-Wesley.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 137.2 m 469.8898 137.2 l S
+.25 w
+n 0 137.2 m 469.8898 137.2 l S
+n 0 105.6 m 469.8898 105.6 l S
+n 0 74 m 469.8898 74 l S
+n 0 42.4 m 469.8898 42.4 l S
+n 88.79807 0 m 88.79807 154 l S
+n 284.8938 0 m 284.8938 154 l S
+n 0 154 m 469.8898 154 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 154 l S
+n 469.8898 0 m 469.8898 154 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 570.2236 cm
+Q
+q
+1 0 0 1 62.69291 532.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (2.3   Terms and abbreviations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 515.4236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (This advisory note uses the following terms and abbreviations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 500.6236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (AAPCS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 1.2 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Procedure Call Standard for the Arm Architecture) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 470.8236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (ABI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 76.8 Tm  T* ET
+q
+1 0 0 1 20 76 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Application Binary Interface:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 70 cm
+Q
+q
+1 0 0 1 20 70 cm
+Q
+q
+1 0 0 1 20 48.4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 6.494 0 Td (1.) Tj T* -6.494 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 12.6 Tm 2.414518 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (The specifications to which an executable must conform in order to execute in a specific execution) Tj T* 0 Tw (environment. For example, the ) Tj /F5 9 Tf (Linux ABI for the Arm Architecture.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 42.4 cm
+Q
+q
+1 0 0 1 20 10 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 18.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 6.494 0 Td (2.) Tj T* -6.494 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 23.4 Tm .371697 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (A particular aspect of the specifications to which independently produced relocatable files must conform in) Tj T* 0 Tw 3.669366 Tw (order to be statically linkable and executable. For example, the [) Tj .011765 .4 .839216 rg (CPPABI32) Tj .219608 .215686 .270588 rg (], the [) Tj .011765 .4 .839216 rg (RTABI32) Tj .219608 .215686 .270588 rg (], the) Tj T* 0 Tw ([) Tj .011765 .4 .839216 rg (CLIBABI32) Tj .219608 .215686 .270588 rg (].) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 366.2236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F2 9 Tf 10.8 TL (Q-o-I) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 22.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 23.4 Tm /F1 9 Tf 10.8 TL 1.112851 Tw (Quality of Implementation \226 a quality, behavior, functionality, or mechanism not required by this standard, but) Tj T* 0 Tw 1.638985 Tw (which might be provided by systems conforming to it. Q-o-I is often used to describe the tool-chain-specific) Tj T* 0 Tw (means by which a standard requirement is met.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 330.8236 cm
+Q
+q
+1 0 0 1 56.69291 73.49291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 238.4429 0 Td (6) Tj T* -238.4429 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 57.29088 0 Td (Copyright \251 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* -57.29088 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+131 0 obj
+<<
+/Length 8278
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 736.2236 cm
+q
+BT 1 0 0 1 0 4.8 Tm 28.8 TL /F2 24 Tf 0 .568627 .741176 rg (3   The Problem and How to Avoid it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 680.2236 cm
+q
+BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (3.1   The need to align SP to a multiple of 8 at conforming call) Tj T* (sites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 652.6236 cm
+q
+BT 1 0 0 1 0 12.6 Tm .137235 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (The Procedure Call Standard for the Arm Architecture [) Tj .011765 .4 .839216 rg (AAPCS32) Tj .219608 .215686 .270588 rg (] requires primitive data types to be naturally aligned) Tj T* 0 Tw (according to their sizes \(for size = 1, 2, 4, 8 bytes\). Doing otherwise creates more problems than it solves.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 614.2236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 23.4 Tm /F1 9 Tf 10.8 TL 1.537987 Tw (In return for preserving the natural alignment of data, conforming code is permitted to rely on that alignment. To) Tj T* 0 Tw 1.332888 Tw (support aligning data allocated on the stack, the stack pointer \(SP\) is required to be 8-byte aligned on entry to a) Tj T* 0 Tw (conforming function. In practice this requirement is met if:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 608.2236 cm
+Q
+q
+1 0 0 1 62.69291 608.2236 cm
+Q
+q
+1 0 0 1 62.69291 580.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (At each call site, the current size of the calling function\222s stack frame is a multiple of 8 bytes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (This places an obligation on compilers and assembly language programmers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 574.6236 cm
+Q
+q
+1 0 0 1 62.69291 536.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (SP is a multiple of 8 when control first enters a program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL .223465 Tw (This places an obligation on authors of low level OS, RTOS, and runtime library code to align SP at all points at) Tj T* 0 Tw (which control first enters a body of \(AAPCS-conforming\) code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 526.2236 cm
+Q
+q
+1 0 0 1 62.69291 509.4236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (In turn, this requires the value of SP to be aligned to 0 modulo 8:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.4236 cm
+Q
+q
+1 0 0 1 62.69291 503.4236 cm
+Q
+q
+1 0 0 1 62.69291 492.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (By exception handlers, before calling AAPCS-conforming code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 486.6236 cm
+Q
+q
+1 0 0 1 62.69291 475.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (By OS/RTOS/run-time system code, before giving control to an application.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 465.8236 cm
+Q
+q
+1 0 0 1 62.69291 427.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (3.2   Possible consequences of SP misalignment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 400.2236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL .416235 Tw (The possible consequences of not aligning SP properly depend on the architecture version and the characteristics of) Tj T* 0 Tw (the code \(and, hence on the behavior of the code generator\). Possible consequences include:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 394.2236 cm
+Q
+q
+1 0 0 1 62.69291 394.2236 cm
+Q
+q
+1 0 0 1 62.69291 383.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Alignment fault or UNPREDICTABLE behavior.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 377.4236 cm
+Q
+q
+1 0 0 1 62.69291 366.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Application failure.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 356.6236 cm
+Q
+q
+1 0 0 1 62.69291 321.6236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 .568627 .741176 rg (3.2.1   Alignment fault or UNPREDICTABLE behavior) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL .734048 Tw (For architecture Armv5TE \(in particular, for Intel XScale processors\) and architecture Armv6 with CP15 register 1 A) Tj T* 0 Tw (and U bits [Arm ARM, \247G3.1, Unaligned access support] configured to emulate Armv5TE:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+Q
+q
+1 0 0 1 62.69291 266.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL 1.459988 Tw (An LDRD or STRD using a stack address presumed by a code generator to be 0 modulo 8, but actually 4) Tj T* 0 Tw (modulo 8, could cause an Alignment Fault or show UNPREDICTABLE behavior.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 256.4236 cm
+Q
+q
+1 0 0 1 62.69291 218.0236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 23.4 Tm /F1 9 Tf 10.8 TL 2.161045 Tw (This failure cannot occur in code generated for architectures earlier than Armv5TE \(no LDRD or STRD\) or on) Tj T* 0 Tw 1.813784 Tw (processors conforming to architecture Armv7 or later \(which cannot cause an alignment fault when the effective) Tj T* 0 Tw (address of an LDRD or STRD is 4 modulo 8\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 .568627 .741176 rg (3.2.2   Application failure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 155.4236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL 1.614777 Tw (An application failure might occur if SP is not 0 modulo 8 on entry to each AAPCS-conforming function and the) Tj T* 0 Tw (program contains an interface such that:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 149.4236 cm
+Q
+q
+1 0 0 1 62.69291 149.4236 cm
+Q
+q
+1 0 0 1 62.69291 127.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL .038339 Tw (Code on one side of the interface evaluates the presumed alignment of an 8-byte aligned, stack allocated datum) Tj T* 0 Tw (at compile time.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 121.8236 cm
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Code on the other side of the interface evaluates the actual alignment of the datum at run time.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 104.4661 cm
+Q
+q
+1 0 0 1 56.69291 73.49291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 238.4429 0 Td (7) Tj T* -238.4429 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 57.29088 0 Td (Copyright \251 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* -57.29088 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+132 0 obj
+<<
+/Length 8805
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 743.4236 cm
+q
+BT 1 0 0 1 0 12.6 Tm .284487 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (The interface defined by the C library\222s stdarg.h macros ) Tj /F6 9 Tf (va_start) Tj /F1 9 Tf ( and ) Tj /F6 9 Tf (va_arg) Tj /F1 9 Tf ( gives us a concrete example of how) Tj T* 0 Tw (an application might fail.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 737.4236 cm
+Q
+q
+1 0 0 1 62.69291 737.4236 cm
+Q
+q
+1 0 0 1 62.69291 694.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 29.4 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 34.2 Tm .606048 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (The compiler evaluates the presumed alignment of a parameter value passed to a variadic function at compile) Tj T* 0 Tw .812651 Tw (time. This determines whether to insert an additional padding word before an 8-byte aligned parameter value.) Tj T* 0 Tw 1.343209 Tw (Parameter values beyond the fourth word are passed to the callee via the stack and a variadic callee often) Tj T* 0 Tw (pushes earlier parameter values onto the stack \(to support uniform treatment of ) Tj /F6 9 Tf (va_list) Tj /F1 9 Tf ( types\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 688.2236 cm
+Q
+q
+1 0 0 1 62.69291 666.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 12.6 Tm 3.02234 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (Code generated by the ) Tj /F6 9 Tf (va_arg) Tj /F1 9 Tf ( macro evaluates the corresponding actual alignment at run time. This) Tj T* 0 Tw (determines whether or not to skip a padding word preceding an 8-byte aligned parameter value.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 656.6236 cm
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+q
+BT 1 0 0 1 0 12.6 Tm .600735 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (A more cautious than usual implementation of ) Tj /F6 9 Tf (va_start) Tj /F1 9 Tf ( and ) Tj /F6 9 Tf (va_arg) Tj /F1 9 Tf ( can avoid this problem and operate correctly) Tj T* 0 Tw (whether SP is 0 or 4 modulo 8 \(\2472.3.2.3\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 601.4236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL .010045 Tw (In general, a compiler cannot detect whether similar code exists in an application. An application containing such code) Tj T* 0 Tw (can fail if SP is not properly aligned.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 .568627 .741176 rg (3.3   Corrective steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.4236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 .568627 .741176 rg (3.3.1   Operating systems and run-time environments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 490.0236 cm
+q
+BT 1 0 0 1 0 23.4 Tm .937274 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (As stated in ) Tj .011765 .4 .839216 rg (The need to align SP to a multiple of 8 at conforming call sites) Tj .219608 .215686 .270588 rg (, operating systems and other run-time) Tj T* 0 Tw .35661 Tw (environments must ensure that SP is a multiple of 8 before calling AAPCS-conforming code. Alternatively the system) Tj T* 0 Tw (must ensure that:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 484.0236 cm
+Q
+q
+1 0 0 1 62.69291 484.0236 cm
+Q
+q
+1 0 0 1 62.69291 445.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24.6 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (The code it calls makes no use of 8-byte aligned, stack allocated data \(see ) Tj .011765 .4 .839216 rg (Safe option not to align SP) Tj .219608 .215686 .270588 rg (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 12.6 Tm 1.379051 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (For example, an operating system might require that no 8-byte types be manipulated by exception handling) Tj T* 0 Tw (code, and software development tools for that OS might support this proscription \() Tj .011765 .4 .839216 rg (Safe option not to align SP) Tj .219608 .215686 .270588 rg (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 439.6236 cm
+Q
+q
+1 0 0 1 62.69291 418.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL -0.122486 Tw (If the architecture is V5TE or V6 configured to give V5TE alignment behavior, the compiler used to build the code) Tj T* 0 Tw (must not have generated LDRD/STRD in place of a pair of LDR/STR to consecutive locations.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+Q
+q
+1 0 0 1 62.69291 369.6236 cm
+q
+BT 1 0 0 1 0 23.4 Tm .659633 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (This requirement extends to operating systems and run-time code for all architecture versions prior to Armv7 and to) Tj T* 0 Tw 1.681184 Tw (the A, R and M architecture profiles thereafter. Special considerations associated with Armv7M are discussed in) Tj T* 0 Tw .011765 .4 .839216 rg (Special considerations for Cortex-M based applications) Tj .219608 .215686 .270588 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 334.6236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 .568627 .741176 rg (3.3.2   Software development tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 302.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 .568627 .741176 rg (3.3.2.1   Option to align SP on entry to designated functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 275.0236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL 1.069927 Tw (To support legacy execution environments in which SP is not properly aligned, compilers should offer an option to) Tj T* 0 Tw (generate code to align SP to a multiple of 8 on entry to designated functions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 236.6236 cm
+q
+BT 1 0 0 1 0 23.4 Tm 1.659163 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (The means by which a function might be designated for special treatment is a quality of implementation \(Q-o-I\).) Tj T* 0 Tw .715784 Tw (Plausible means include the use of pseudo storage class specifiers like ) Tj /F6 9 Tf (__irq) Tj /F1 9 Tf ( or ) Tj /F6 9 Tf (__declspec\(irq\)) Tj /F1 9 Tf (, or attributes) Tj T* 0 Tw (like ) Tj /F6 9 Tf (__attribute__\(\(irq\)\)) Tj /F1 9 Tf (, in a function\222s declaration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 .568627 .741176 rg (3.3.2.2   Safe option not to align SP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 187.8236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (To support safely not using the SP alignment option, compilers should offer an option \(Q-o-I\) to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 181.8236 cm
+Q
+q
+1 0 0 1 62.69291 181.8236 cm
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Not generate LDRD/STRD.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+Q
+q
+1 0 0 1 62.69291 126.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Fault the use of 8-byte aligned, stack allocated data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 12.6 Tm 1.60561 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (\(8-byte aligned parameters to variadic functions need not be faulted if the tool chain implements the repair) Tj T* 0 Tw (described in ) Tj .011765 .4 .839216 rg (Repair of va_start and va_arg) Tj .219608 .215686 .270588 rg (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 120.6236 cm
+Q
+q
+1 0 0 1 62.69291 109.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Or, if that is too difficult, fault all uses of 8-byte data types.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 104.4661 cm
+Q
+q
+1 0 0 1 56.69291 73.49291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 238.4429 0 Td (8) Tj T* -238.4429 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 57.29088 0 Td (Copyright \251 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* -57.29088 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+133 0 obj
+<<
+/Length 9351
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 743.4236 cm
+q
+BT 1 0 0 1 0 12.6 Tm 4.545548 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (A program that makes no us of LDRD/STRD cannot suffer the failure described in ) Tj .011765 .4 .839216 rg (Alignment fault or) Tj T* 0 Tw (UNPREDICTABLE behavior) Tj .219608 .215686 .270588 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+BT 1 0 0 1 0 12.6 Tm .230987 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (A program that makes no use of 8-byte aligned, stack allocated data cannot suffer the failure described in ) Tj .011765 .4 .839216 rg (Application) Tj T* 0 Tw (failure) Tj .219608 .215686 .270588 rg (. And a program that makes no use 8-byte types certainly makes no use of 8-byte aligned, stack allocated data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Assembly language programmers must, of course, certify the safety of their own code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 667.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 .568627 .741176 rg (3.3.2.3   Repair of ) Tj /F6 10 Tf .219608 .215686 .270588 rg (va_start) Tj /F4 10 Tf 0 .568627 .741176 rg ( and ) Tj /F6 10 Tf .219608 .215686 .270588 rg (va_arg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 628.6236 cm
+q
+BT 1 0 0 1 0 23.4 Tm .288487 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (To avoid injecting a fault into their users\222 programs in execution environments that do not correctly align SP, software) Tj T* 0 Tw .360516 Tw (development tools should offer an option \(Q-o-I\) to repair the C library\222s stdarg.h macros ) Tj /F6 9 Tf (va_start) Tj /F1 9 Tf ( and ) Tj /F6 9 Tf (va_arg) Tj /F1 9 Tf (, as) Tj T* 0 Tw (follows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.2236 cm
+q
+BT 1 0 0 1 0 23.4 Tm .049724 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (\(We assume ) Tj /F6 9 Tf (va_start) Tj /F1 9 Tf ( expands to a call to the intrinsic function ) Tj /F6 9 Tf (__va_start) Tj /F1 9 Tf (, and ) Tj /F6 9 Tf (va_arg) Tj /F1 9 Tf ( to a call to ) Tj /F6 9 Tf (__va_arg) Tj /F1 9 Tf (. It) Tj T* 0 Tw .111777 Tw (is already very difficult \226 or impossible \226 to implement ) Tj /F6 9 Tf (va_start) Tj /F1 9 Tf ( and ) Tj /F6 9 Tf (va_arg) Tj /F1 9 Tf ( in a way that evaluates each argument) Tj T* 0 Tw (only once \226 as required by the C standard \226 without the assistance of at least one intrinsic function\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.4236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F6 9 Tf .219608 .215686 .270588 rg (__va_start) Tj /F1 9 Tf ( should return a pointer value ) Tj /F6 9 Tf (ap) Tj /F1 9 Tf ( with bit[1] set if SP was 4 modulo 8 on entry to the containing function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 567.4236 cm
+Q
+q
+1 0 0 1 62.69291 567.4236 cm
+Q
+q
+1 0 0 1 62.69291 556.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (The function containing the call to ) Tj /F6 9 Tf (__va_start) Tj /F1 9 Tf ( has the variadic parameter list allocated in the stack frame.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 550.6236 cm
+Q
+q
+1 0 0 1 62.69291 529.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 12.6 Tm 1.379051 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (Because arguments are guaranteed to be 4-byte aligned \(by C\222s argument promotion rules and the AAPCS) Tj T* 0 Tw (requirement that SP be 4-byte aligned at all instants\), bits[1:0] of ) Tj /F6 9 Tf (ap) Tj /F1 9 Tf ( are otherwise 0.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 523.0236 cm
+Q
+q
+1 0 0 1 62.69291 501.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 12.6 Tm 2.124269 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (Coding the SP-misaligned case as 1 produces a ) Tj /F6 9 Tf (__va_start) Tj /F1 9 Tf ( compatible with an ordinary \(not repaired\)) Tj T* 0 Tw /F6 9 Tf (__va_arg) Tj /F1 9 Tf ( in conforming environments in which SP is 0 modulo 8 at function entry.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 491.4236 cm
+Q
+q
+1 0 0 1 62.69291 463.8236 cm
+q
+BT 1 0 0 1 0 12.6 Tm .327303 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (If T is a data type requiring 8-byte alignment, ) Tj /F6 9 Tf (__va_arg\(ap,) Tj ( ) Tj (T\)) Tj /F1 9 Tf ( must increment the pointer it calculates by 4 bytes) Tj T* 0 Tw (\(to skip a padding word inserted at compile time\) if:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.4751 cm
+q
+q
+.972857 0 0 .972857 0 0 cm
+q
+1 0 0 1 6.6 6.784144 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+1 1 1 rg
+n -6 -6 481.8 22.8 re B*
+Q
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F6 9 Tf 10.8 TL (\(bit[1] of ap is 0 and bit[2] of ap is 1\) or \(bit[1] of ap is 1 and bit[2] of ap is 0\).) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 413.6751 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (Whatever the sort of T, ) Tj /F6 9 Tf (__va_arg\(ap,) Tj ( ) Tj (T\)) Tj /F1 9 Tf ( must clear bit 1 of the pointer it calculates before dereferencing it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 407.6751 cm
+Q
+q
+1 0 0 1 62.69291 407.6751 cm
+Q
+q
+1 0 0 1 62.69291 386.0751 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7.8 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 12.6 Tm 1.544136 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (This implementation of ) Tj /F6 9 Tf (__va_arg) Tj /F1 9 Tf ( is compatible with an ordinary \(not repaired\) ) Tj /F6 9 Tf (__va_start) Tj /F1 9 Tf ( in conforming) Tj T* 0 Tw (environments in which SP is 0 modulo 8 at function entry and bit 1 of ) Tj /F6 9 Tf (ap) Tj /F1 9 Tf ( is always 0.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 376.0751 cm
+Q
+q
+1 0 0 1 62.69291 341.0751 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 .568627 .741176 rg (3.3.3   Special considerations for Cortex-M based applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 313.4751 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL 3.21881 Tw (Armv7M is unique in making it possible \(absent the problem discussed in this advisory note\) to attach an) Tj T* 0 Tw (AAPCS-conforming function directly to an exception vector.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 275.0751 cm
+q
+BT 1 0 0 1 0 23.4 Tm 2.300769 Tw 10.8 TL /F1 9 Tf .219608 .215686 .270588 rg (\(Under previous architecture versions and other architecture strands, some \221glue\222 code is required between an) Tj T* 0 Tw .514184 Tw (exception vector and an AAPCS-conforming function. Usually, an OS, RTOS, or run-time system provides this code.) Tj T* 0 Tw (Considerations relating to such systems were discussed in ) Tj .011765 .4 .839216 rg (Operating systems and run-time environments) Tj .219608 .215686 .270588 rg (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 258.2751 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Cortex-M3 is the first implementation of Armv7M.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.2751 cm
+Q
+q
+1 0 0 1 62.69291 252.2751 cm
+Q
+q
+1 0 0 1 62.69291 213.8751 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24.6 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Revision 0 of Cortex-M3 \(CM3_r0\) does not align SP to a multiple of 8 on entry to exceptions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 12.6 Tm /F1 9 Tf 10.8 TL 1.13761 Tw (Users of CM3_r0 must take appropriate precautions if the correctness of their software might depend on the) Tj T* 0 Tw (alignment of stack-allocated data presumed by development tools to be 8-byte aligned.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 207.8751 cm
+Q
+q
+1 0 0 1 62.69291 197.0751 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (Revision 1 of Cortex-M3 will offer a configurable option to align SP to a multiple of 8 on entry to exceptions.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 191.0751 cm
+Q
+q
+1 0 0 1 62.69291 180.2751 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 10.85 0 Td (\177) Tj T* -10.85 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL (A future revision of the M profile architecture will require SP to be 8-byte aligned on entry to exceptions.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 170.2751 cm
+Q
+q
+1 0 0 1 56.69291 73.49291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 238.4429 0 Td (9) Tj T* -238.4429 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+.219608 .215686 .270588 rg
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 57.29088 0 Td (Copyright \251 2006, 2007, 2009, 2018, 2021, Arm Limited and its affiliates. All rights reserved.) Tj T* -57.29088 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+134 0 obj
+<<
+/Nums [ 0 135 0 R 1 136 0 R 2 137 0 R 3 138 0 R 4 139 0 R 
+  5 140 0 R 6 141 0 R 7 142 0 R 8 143 0 R ]
+>>
+endobj
+135 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+136 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+137 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+138 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+139 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+140 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+141 0 obj
+<<
+/S /D /St 7
+>>
+endobj
+142 0 obj
+<<
+/S /D /St 8
+>>
+endobj
+143 0 obj
+<<
+/S /D /St 9
+>>
+endobj
+xref
+0 144
+0000000000 65535 f 
+0000000073 00000 n 
+0000000157 00000 n 
+0000000264 00000 n 
+0000000376 00000 n 
+0000000485 00000 n 
+0000000692 00000 n 
+0000000882 00000 n 
+0000001079 00000 n 
+0000001310 00000 n 
+0000001508 00000 n 
+0000001677 00000 n 
+0000001873 00000 n 
+0000002042 00000 n 
+0000002242 00000 n 
+0000002496 00000 n 
+0000002664 00000 n 
+0000002832 00000 n 
+0000003000 00000 n 
+0000003168 00000 n 
+0000003336 00000 n 
+0000003504 00000 n 
+0000003672 00000 n 
+0000003840 00000 n 
+0000004009 00000 n 
+0000004178 00000 n 
+0000004347 00000 n 
+0000004516 00000 n 
+0000004685 00000 n 
+0000004854 00000 n 
+0000005023 00000 n 
+0000005192 00000 n 
+0000005361 00000 n 
+0000005530 00000 n 
+0000005699 00000 n 
+0000005868 00000 n 
+0000006037 00000 n 
+0000006206 00000 n 
+0000006375 00000 n 
+0000006544 00000 n 
+0000006713 00000 n 
+0000006882 00000 n 
+0000007051 00000 n 
+0000007220 00000 n 
+0000007389 00000 n 
+0000007558 00000 n 
+0000007727 00000 n 
+0000007896 00000 n 
+0000008065 00000 n 
+0000008234 00000 n 
+0000008403 00000 n 
+0000008572 00000 n 
+0000008741 00000 n 
+0000008910 00000 n 
+0000009079 00000 n 
+0000009248 00000 n 
+0000009417 00000 n 
+0000009586 00000 n 
+0000009755 00000 n 
+0000009924 00000 n 
+0000010093 00000 n 
+0000010262 00000 n 
+0000010431 00000 n 
+0000010600 00000 n 
+0000011168 00000 n 
+0000011288 00000 n 
+0000011457 00000 n 
+0000011626 00000 n 
+0000011795 00000 n 
+0000011964 00000 n 
+0000012212 00000 n 
+0000012412 00000 n 
+0000012675 00000 n 
+0000012930 00000 n 
+0000013164 00000 n 
+0000013280 00000 n 
+0000013480 00000 n 
+0000013680 00000 n 
+0000013880 00000 n 
+0000014149 00000 n 
+0000014349 00000 n 
+0000014576 00000 n 
+0000014682 00000 n 
+0000014851 00000 n 
+0000015020 00000 n 
+0000015189 00000 n 
+0000015358 00000 n 
+0000015527 00000 n 
+0000015782 00000 n 
+0000015951 00000 n 
+0000016120 00000 n 
+0000016289 00000 n 
+0000016458 00000 n 
+0000016627 00000 n 
+0000016882 00000 n 
+0000016990 00000 n 
+0000017364 00000 n 
+0000017440 00000 n 
+0000017659 00000 n 
+0000017847 00000 n 
+0000018049 00000 n 
+0000018377 00000 n 
+0000018577 00000 n 
+0000018827 00000 n 
+0000019057 00000 n 
+0000019302 00000 n 
+0000019498 00000 n 
+0000019788 00000 n 
+0000020051 00000 n 
+0000020403 00000 n 
+0000020635 00000 n 
+0000020851 00000 n 
+0000021118 00000 n 
+0000021456 00000 n 
+0000021928 00000 n 
+0000022335 00000 n 
+0000022702 00000 n 
+0000022959 00000 n 
+0000023232 00000 n 
+0000023609 00000 n 
+0000023956 00000 n 
+0000024383 00000 n 
+0000024704 00000 n 
+0000025021 00000 n 
+0000025453 00000 n 
+0000025569 00000 n 
+0000027927 00000 n 
+0000031954 00000 n 
+0000037800 00000 n 
+0000044704 00000 n 
+0000053791 00000 n 
+0000060156 00000 n 
+0000068487 00000 n 
+0000077345 00000 n 
+0000086749 00000 n 
+0000086875 00000 n 
+0000086910 00000 n 
+0000086945 00000 n 
+0000086980 00000 n 
+0000087015 00000 n 
+0000087050 00000 n 
+0000087085 00000 n 
+0000087120 00000 n 
+0000087155 00000 n 
+trailer
+<<
+/ID 
+[<e91cd01963432821b329cdee8763549f><e91cd01963432821b329cdee8763549f>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 95 0 R
+/Root 94 0 R
+/Size 144
+>>
+startxref
+87190
+%%EOF
